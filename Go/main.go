@@ -5,7 +5,7 @@ Análisis de Algortimos
 Profesor: Rodrigo Núñez Núñez
 Estudiantes:
 Luis Carlos Araya Mata Carne: 2020205005
-Junior Lopez Aguirre Carne:
+Junior Lopez Aguirre Carne: 2015097593
 Grupo: 1
 I Semestre
 2021
