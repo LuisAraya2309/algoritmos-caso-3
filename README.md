@@ -24,14 +24,20 @@ Tipo de sistema: Sistema operativo de 64 bits, procesador x64
 
 COMPARACIÓN DE C++ vs C
 
+![CvsC++Tabla](https://user-images.githubusercontent.com/70912297/110565345-f3d33900-8113-11eb-8340-080ea3748283.png)
+
+![C](https://user-images.githubusercontent.com/70912297/110565387-0baabd00-8114-11eb-868e-01b20bfb83ba.png)
+
+![C++](https://user-images.githubusercontent.com/70912297/110565394-0f3e4400-8114-11eb-9a6a-aa0744c28fe9.png)
 
 
 
 
+COMPARACIÓN DE CvsC++vsGovsRust
 
+![TablaFinal](https://user-images.githubusercontent.com/70912297/110565437-21b87d80-8114-11eb-8362-af50957b8866.png)
 
-COMPARACIÓN DE CvsC++GovsRust
-
+![CompilacionTodos](https://user-images.githubusercontent.com/70912297/110565455-29782200-8114-11eb-8b64-dff94e0aac96.png)
 
 
 
