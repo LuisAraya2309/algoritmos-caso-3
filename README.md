@@ -1,5 +1,26 @@
 # algoritmos-caso-3
 
+Instituto Tecnológico de Costa Rica
+
+Escuela de Computación
+
+Análisis de Algoritmos
+
+Caso 3
+
+Profesor: Rodrigo Núñez Núñez
+
+Estudiantes:
+
+Luis Carlos Araya Mata   Carné 2020205005
+
+Junior López Aguirre     Carné 2015097593
+
+Grupo 1
+
+Fecha de Entrega: 09/03/2021
+
+
 ¿Cómo está organizado el repositorio?
 En la raíz del repositorio, se encuentra lo siguiente:
 - Punto#1 CvsC++ (Carpeta).
